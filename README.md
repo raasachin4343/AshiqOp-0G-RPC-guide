@@ -1,10 +1,10 @@
 # Zero-Gravity-By-AshiqOp
 ## Hardware requirements
 
-Operating System:  Ubuntu 18.04 or later LTS  
+Operating System:  Ubuntu 24.04 or later LTS  
 Number of CPUs:    8  
 RAM:	             64GB  
-Storage:           1TB NVMe SSD  
+Storage:           1TB SSD  
 Bandwidth:         100mps for Download / Upload
 
 #

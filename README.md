@@ -130,3 +130,10 @@ while true; do
   sleep 5
 done
 ```
+
+### How to get your RPC endpoint 
+```bash
+http://<vps-ip>:8545
+```
+
+

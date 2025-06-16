@@ -1,4 +1,4 @@
-# RPC-Node-Guide-Zero-Gravity-By-AshiqOp
+# Zero-Gravity-By-AshiqOp
 ## Hardware requirements
 
 Operating System:  Ubuntu 18.04 or later LTS  

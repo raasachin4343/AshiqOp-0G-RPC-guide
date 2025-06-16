@@ -131,7 +131,7 @@ while true; do
 done
 ```
 
-### How to get your RPC endpoint 
+### RPC endpoint 
 ```bash
 http://<vps-ip>:8545
 ```
